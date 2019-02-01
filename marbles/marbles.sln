@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "marbles", "marbles\marbles.vcproj", "{E5DB78D8-8B7B-4CC4-A61D-0CCC6C40C792}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5DB78D8-8B7B-4CC4-A61D-0CCC6C40C792}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E5DB78D8-8B7B-4CC4-A61D-0CCC6C40C792}.Debug|Win32.Build.0 = Debug|Win32
+		{E5DB78D8-8B7B-4CC4-A61D-0CCC6C40C792}.Release|Win32.ActiveCfg = Release|Win32
+		{E5DB78D8-8B7B-4CC4-A61D-0CCC6C40C792}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
